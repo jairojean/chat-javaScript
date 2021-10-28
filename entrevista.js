@@ -30,7 +30,7 @@ function resposta2(perg) {
         case 1:
             {
                 var respRetono = "Eu gostaria de cancelar meu plano telefônico.";
-                var retorno1 = "entendo, e por qual motivo o senhor deseja cancelar seu plano?"
+                var retorno1 = "entendo, e por qual motivo o senhor deseja cancelar seu plano?";
 
                 document.getElementById('pergRetorno2').innerText = respRetono;
                 document.getElementById('resposta2').innerText = retorno1;
@@ -41,7 +41,7 @@ function resposta2(perg) {
         case 2:
             {
                 var respRetono = "Eu quero cancelar meu plano porque não aguento mais vocês me ligando";
-                var retorno2 = "entendo, mas o senhor vai ficar sem poder utilizar os beneficios do seu plano, mesmo assim deseja cancelar?"
+                var retorno2 = "entendo, mas o senhor vai ficar sem poder utilizar os beneficios do seu plano, mesmo assim deseja cancelar?";
 
                 document.getElementById('pergRetorno2').innerText = respRetono;
                 document.getElementById('resposta2').innerText = retorno2;
@@ -68,7 +68,7 @@ function resposta3(perg) {
         case 2:
             {
                 var respRetono = "Eu quase não uso meu plano, ja tenho outro com outra operadora.";
-                var retorno2 = "Entendi, eu vi aqui no meu sistemas que o senhor tem feito uma boa utilização, no ultimo mes falou por 10 min com um numero de outra operadora, e cncelando o senhor entende que vai perder ese e outros beneficios desse plano?";
+                var retorno2 = "Entendi, eu vi aqui no meu sistemas que o senhor tem feito uma boa utilização, no ultimo mes falou por 10 min com um numero de outra operadora, e cncelando o senhor entende que vai perder ese e outros beneficios desse plano?";;
                 document.getElementById('pergRetorno3').innerText = respRetono;
                 document.getElementById('resposta3').innerText = retorno2;
                 document.getElementById('pergunta3').className = 'ocultar';
