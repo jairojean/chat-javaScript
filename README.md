@@ -6,4 +6,4 @@
  https://bootsnipp.com/tags/chat
 
 ## Quer conversar com esse chat, acesse o link.
-Link Demo: 
+Link Demo: https://jairojeanbr.000webhostapp.com/projetos/chat/home.php
